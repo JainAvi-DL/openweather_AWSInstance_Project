@@ -1,0 +1,8 @@
+Commands that needs to run in VM/AWS instance
+
+sudo apt-get update
+sudo apt install python3-pip
+sudo pip install apache-airflow
+sudo pip install pandas 
+sudo pip install s3fs
+pip install requests
